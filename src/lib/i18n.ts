@@ -2,7 +2,7 @@ import { create } from 'zustand'
 import fr from '../../messages/fr.json'
 import en from '../../messages/en.json'
 
-const translations = { fr, en }
+const translations: any = { fr, en } // On ajoute : any ici
 
 interface LanguageState {
   lang: 'fr' | 'en'
@@ -16,7 +16,6 @@ export const useI18n = create<LanguageState>((set, get) => ({
   t: (path) => {
     const keys = path.split('.')
     const lang = get().lang
-    // @ts-ignore
     let result = translations[lang]
     
     for (const key of keys) {
