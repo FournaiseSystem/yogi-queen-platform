@@ -1,0 +1,43 @@
+{
+  "sidebar": {
+    "library": "Video Library",
+    "lives": "Lives & Direct",
+    "favorites": "Favorites",
+    "account": "My Account",
+    "logout": "Sign Out",
+    "admin": "Studio Space"
+  },
+  "dashboard": {
+    "welcome": "Hello, Yogi",
+    "subtitle": "Here are the latest sessions online.",
+    "no_videos": "No videos for the moment."
+  },
+  "landing": {
+    "nav_login": "Login",
+    "nav_signup": "Sign Up",
+    "hero_badge": "New: The 'Awakening' program is now available",
+    "hero_title_1": "Reveal the ",
+    "hero_title_italic": "Queen",
+    "hero_title_2": " within you.",
+    "hero_subtitle": "Practice yoga wherever and whenever you want. Guided sessions for all levels, designed for your well-being.",
+    "cta_start": "Start free trial",
+    "cta_programs": "View programs",
+    "feature_title": "A studio experience, in your living room.",
+    "footer": "© 2026 Le Gall Yann. Made with love for yogis worldwide."
+  },
+  "auth": {
+    "signup_title": "Create my account",
+    "signup_subtitle": "Join the YogiQueen community today.",
+    "email": "Email Address",
+    "username": "Username",
+    "password": "Password",
+    "confirm_password": "Confirm password",
+    "btn_signup": "Sign Up",
+    "already_member": "Already a member?",
+    "login_link": "Login",
+    "error_email_exists": "This email is already in use.",
+    "error_passwords_match": "Passwords do not match.",
+    "error_generic": "An error occurred during registration.",
+    "success_welcome": "Welcome to YogiQueen! Redirecting..."
+  }
+}

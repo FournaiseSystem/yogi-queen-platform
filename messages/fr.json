@@ -1,0 +1,44 @@
+{
+  "sidebar": {
+    "library": "Vidéothèque",
+    "lives": "Lives & Direct",
+    "favorites": "Favoris",
+    "account": "Mon Compte",
+    "logout": "Déconnexion",
+    "admin": "Espace Studio"
+  },
+  "dashboard": {
+    "welcome": "Bonjour, Yogi",
+    "subtitle": "Voici les dernières séances mises en ligne.",
+    "no_videos": "Aucune vidéo pour le moment."
+  },
+  "landing": {
+    "nav_login": "Connexion",
+    "nav_signup": "S'inscrire",
+    "hero_badge": "Nouveauté : Le programme 'Éveil' est disponible",
+    "hero_title_1": "Révélez la ",
+    "hero_title_italic": "Reine",
+    "hero_title_2": " qui sommeille en vous.",
+    "hero_subtitle": "Pratiquez le yoga où vous voulez, quand vous voulez. Des séances guidées pour tous les niveaux, pensées pour votre bien-être.",
+    "cta_start": "Commencer l'essai gratuit",
+    "cta_programs": "Voir les programmes",
+    "feature_title": "Une expérience de studio, dans votre salon.",
+    "footer": "© 2026 Le Gall Yann. Fait avec amour pour les yogis du monde entier."
+  },
+  "auth": {
+    "signup_title": "Créer mon compte",
+    "signup_subtitle": "Rejoignez la communauté YogiQueen dès aujourd'hui.",
+    "email": "Adresse Email",
+    "username": "Nom d'utilisateur",
+    "password": "Mot de passe",
+    "confirm_password": "Confirmer le mot de passe",
+    "btn_signup": "S'inscrire",
+    "already_member": "Déjà membre ?",
+    "login_link": "Se connecter",
+    "no_account": "Pas encore de compte ?",
+    "error_email_exists": "Cet email est déjà utilisé.",
+    "error_passwords_match": "Les mots de passe ne correspondent pas.",
+    "error_generic": "Une erreur est survenue lors de l'inscription.",
+    "success_welcome": "Bienvenue chez YogiQueen ! Redirection en cours..."
+  }
+}
